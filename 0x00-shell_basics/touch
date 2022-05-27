@@ -1,1 +1,2 @@
-#!/bin/bash 14-copy_html
+#!/bin/bash 102-tree
+mkdir -p welcome/to/school 102-tree
