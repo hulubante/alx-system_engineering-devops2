@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp new_school directory
+chgrp - change group ownership
